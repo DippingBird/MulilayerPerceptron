@@ -1,0 +1,7 @@
+C:\Users\Thomas\source\repos\MultilayerPerceptron\MultilayerPerceptron\bin\Debug\MultilayerPerceptron.exe.config
+C:\Users\Thomas\source\repos\MultilayerPerceptron\MultilayerPerceptron\bin\Debug\MultilayerPerceptron.exe
+C:\Users\Thomas\source\repos\MultilayerPerceptron\MultilayerPerceptron\bin\Debug\MultilayerPerceptron.pdb
+C:\Users\Thomas\source\repos\MultilayerPerceptron\MultilayerPerceptron\obj\Debug\MultilayerPerceptron.csprojAssemblyReference.cache
+C:\Users\Thomas\source\repos\MultilayerPerceptron\MultilayerPerceptron\obj\Debug\MultilayerPerceptron.csproj.CoreCompileInputs.cache
+C:\Users\Thomas\source\repos\MultilayerPerceptron\MultilayerPerceptron\obj\Debug\MultilayerPerceptron.exe
+C:\Users\Thomas\source\repos\MultilayerPerceptron\MultilayerPerceptron\obj\Debug\MultilayerPerceptron.pdb
