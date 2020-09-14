@@ -1,2 +1,7 @@
 *.sln
 *.vspx
+*.csproj
+*.config
+MultilayerPerceptron/Properties
+MultilayerPerceptron/obj/
+MultilayerPerceptron/bin
