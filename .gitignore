@@ -2,6 +2,11 @@
 *.vspx
 *.csproj
 *.config
+.vs
+.vs/*
 MultilayerPerceptron/Properties
-MultilayerPerceptron/obj/
+MultilayerPerceptron/Properties/*
+MultilayerPerceptron/obj
+MultilayerPerceptron/obj/*
 MultilayerPerceptron/bin
+MultilayerPerceptron/bin/*
